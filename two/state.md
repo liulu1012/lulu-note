@@ -100,3 +100,20 @@ this.commentForm.reset()
 
 清空input代码：
 **[reset form](https://github.com/liulu1012/new-redux-hello/commit/e6ac961cfbd4495469dd19765484ad3831aaa59c)**
+
+
+###不可写性
+
+注意，不能直接使用下面的代码：
+
+```
+handleSubmit(e) {
+  e.preventDefault()
+  let content = this.refs.content.value
+  let comments =   this.state.comments // 需要添加 .slice()
+  comments.push(content)
+  this.setState({ comments })
+}
+```
+
+因为这样会直接修改 state 值。可行的方式是用 slice() 或者用数组展开运算符。
