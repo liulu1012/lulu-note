@@ -10,3 +10,5 @@
 	* [第一节:Redux概念理解](./two/begin.md)
 	* [第二节:环境的准备](./two/plan.md)
 	* [第三节：组件内部state的使用](./two/state.md)
+	* [第四节：不用redux实现组件间的通讯](./two/props.md)
+	* [Redux Store 数据大本营](./two/store.md)
