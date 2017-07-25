@@ -48,5 +48,4 @@ git branch //查看处于哪个分支
 git checkout -b gh-pages //创建并切换到gh-pages分支上
 注：*push的时候应该指定的传到gh-pages分支上，即：
 git push --set-upstream origin gh-pages
-s
 ```
