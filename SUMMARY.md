@@ -17,6 +17,8 @@
 	* [第二节：模块化开发](./Node/module.md)
 	* [第三节：create-react-app初始化项目](./Node/create.md)
 	* [第四节：es6基本的用法](./Node/es6.md)
+	* [第五节：es6解构赋值](./Node/jiegoufuzhi.md)
+	* [第六节：arrows 箭头函数和字符串拼接](./Node/arrows.md)
 * [第四章：antd design组件使用](./antd/index.md)
 	* [第一节：antd基础使用](./antd/antd.md)
 * [第五章：class命名的技巧和规范](./className/index.md)
