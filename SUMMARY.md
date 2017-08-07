@@ -25,3 +25,7 @@
 	* [第一节：class常用命名](./className/className.md)
 * [第六章：实战shunzhi项目开发](./shunzhi/index.md)
 	* [第一节：基本准备](./shunzhi/1.md)
+* [第七章：认识vue](./vue/index.md)
+	* [第一节：基本认识](./vue/1.md)
+	* [第二节：基本环境搭建](./vue/2.md)
+	* [第三节：vue-router介绍](./vue/3.md)
