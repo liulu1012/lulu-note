@@ -4,7 +4,7 @@
 
 个性定制有三种情况：
 
->>一，使用create-react-app创建的项目：找到node_modules->react-scripts->config->webpack.config.dev.js当中找到plugins添加以下代码：
+>一，使用create-react-app创建的项目：找到node_modules->react-scripts->config->webpack.config.dev.js当中找到plugins添加以下代码：
 
 ```js
 ["import", { libraryName: "antd", style: "css" }]

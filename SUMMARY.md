@@ -1,11 +1,11 @@
 # Summary
 
 * [前端笔记](README.md)
-* [第一章：React](./one/index.md)
-	* [第一节：bash命令行基本使用](./one/jiben.md)
-
-	* [第二节：bash命令行与Github的结合使用](./one/bash and github.md)
-	* [第三节：Markdown语法介绍](./one/markdown.md)
+* [第一章：Linux基础]
+	* [第一节：bash命令行基本使用](./linux/1.md)
+  * [第二节：Atom编辑器](./linux/2.md)
+	* [第三节：bash命令行与Github的结合使用](./linux/3.md)
+	* [第四节：Markdown语法介绍](./linux/4.md)
 * [第二章：通过仿新浪微博项目学习Redux](./two/index.md)
 	* [第一节:Redux概念理解](./two/begin.md)
 	* [第二节:环境的准备](./two/plan.md)
@@ -29,4 +29,7 @@
 	* [第一节：基本认识](./vue/1.md)
 	* [第二节：基本环境搭建](./vue/2.md)
 	* [第三节：数据](./vue/3.md)
-	* [第四节：提交评论](./vue/4.mds)
+	* [第四节：提交评论](./vue/4.md)
+	* [第五节：使用props](./vue/5.md)
+	* [第六节：数据存入 store](./vue/6.md)
+	* [第七节：修改 store 数据](./vue/7.md)
