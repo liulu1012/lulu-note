@@ -33,3 +33,4 @@
 	* [第五节：使用props](./vue/5.md)
 	* [第六节：数据存入 store](./vue/6.md)
 	* [第七节：修改 store 数据](./vue/7.md)
+	* [第八节：请求API](./vue/8.md)
