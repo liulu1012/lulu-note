@@ -20,5 +20,10 @@
     "url": "https://github.com/liulu1012/lulu-note/issues"
   },
   "homepage": "https://github.com/liulu1012/lulu-note#readme",
+  "dependencies": {
+    "gh-pages": "^1.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
   "description": ""
 }
