@@ -3,7 +3,7 @@
 * [前端笔记](README.md)
 * [Linux基础]
     * [bash命令行基本使用](./linux/1.md)
-        * [Atom编辑器](./linux/2.md)
+    * [Atom编辑器](./linux/2.md)
     * [bash命令行与Github的结合使用](./linux/3.md)
     * [Markdown语法介绍](./linux/4.md)
 * [通过仿新浪微博项目学习Redux](./two/index.md)
@@ -36,4 +36,10 @@
     * [数据存入 store](./vue/6.md)
     * [第七节：修改 store 数据](./vue/7.md)
     * [第八节：请求API](./vue/8.md)
+
+* [React小书自学]
+    * [前端组件化](./reactS/1.md)
+    * [使用 JSX 描述UI信息]('./reactS/2.md')
+    * [组件的 render 方法]('./reactS/3.md')
+    * [组件的state和setState]('./reactS/4.md')
 
